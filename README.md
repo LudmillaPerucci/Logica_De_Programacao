@@ -1,9 +1,9 @@
-° Lógica de Programação
+                                                                           Lógica de Programação
 
 
 ° Material elaborado no curso de Lógica e Algoritmos do Canal Ralf Lima
 
-🛠 Tecnologias utilizadas:
+                                                                         🛠 Tecnologias utilizadas:
 
 <img align="center" alt="Ludmilla-Html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img align="center" alt="Ludmilla-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
